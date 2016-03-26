@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "technical term word rules list",
   "author": "Sota Yamashita <sota_yamashita@sirok.co.jp>",
-  "repository": "SIROK/eslint-config-srk",
+  "repository": "SIROK/growthbeat-word-rules",
   "main": "all.json",
   "license": "BSD-3-Clause",
   "files": [
