@@ -1,0 +1,14 @@
+# Growthbeat Platform
+version: 1
+rules:
+
+# Growthbeat
+
+  - expected: Growthbeat
+    patterns:
+      - Growth beat
+      - growthbeat
+      - GrowthBeat
+    specs:
+      - from: growthbeat
+        to:   Growthbeat

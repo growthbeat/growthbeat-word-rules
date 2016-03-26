@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "prh": {
+      "rulePaths": [
+        "dict/growthbeat.yml"
+      ]
+    }
+  }
+}
